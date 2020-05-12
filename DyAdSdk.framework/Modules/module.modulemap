@@ -1,0 +1,6 @@
+framework module DyAdSdk {
+  umbrella header "DyAdSdk.h"
+
+  export *
+  module * { export * }
+}
